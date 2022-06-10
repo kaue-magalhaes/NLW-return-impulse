@@ -1,9 +1,9 @@
 <div align="center">
   <a href="https://github.com/kkkaue/NLW-return-impulse#event">Event &nbsp</a> |
-  <a href="https://github.com/kkkaue/NLW-return-impulse#project">&nbsp Project &nbsp</a> |
-  <a href="https://github.com/kkkaue/NLW-return-impulse#technologies">&nbsp Technologies &nbsp</a> |
-  <a href="https://https://github.com/kkkaue/NLW-return-impulse#event">&nbsp Layout &nbsp</a> |
-  <a href="https://github.com/kkkaue/NLW-return-impulse#run-application">&nbsp Run application &nbsp</a>
+  <a href="https://github.com/kkkaue/NLW-return-impulse#-project">&nbsp Project &nbsp</a> |
+  <a href="https://github.com/kkkaue/NLW-return-impulse#-technologies">&nbsp Technologies &nbsp</a> |
+  <a href="https://github.com/kkkaue/NLW-return-impulse#%EF%B8%8F-layout">&nbsp Layout &nbsp</a> |
+  <a href="https://github.com/kkkaue/NLW-return-impulse#-run-application">&nbsp Run application &nbsp</a>
 </div>
 
 <br><br>
