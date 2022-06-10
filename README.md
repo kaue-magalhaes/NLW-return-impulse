@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/kkkaue/NLW-return-impulse/tree/main#event">Event &nbsp</a> |
-  <a href="https://github.com/kkkaue/NLW-return-impulse/new/main?readme=1#-project">&nbsp Project &nbsp</a> |
+  <a href="https://github.com/kkkaue/NLW-return-impulse/tree/main#-project">&nbsp Project &nbsp</a> |
   <a href="https://github.com/kkkaue/NLW-return-impulse/new/main?readme=1#-technologies">&nbsp Technologies &nbsp</a> |
   <a href="https://github.com/kkkaue/NLW-return-impulse/new/main?readme=1#%EF%B8%8F-layout">&nbsp Layout &nbsp</a> |
   <a href="https://github.com/kkkaue/NLW-return-impulse/new/main?readme=1#-run-application">&nbsp Run application &nbsp</a>
