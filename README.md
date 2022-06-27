@@ -11,7 +11,7 @@
 <h1 align="center" >NLW RETURN - Impulse Track</h1>
 <h3>💡Event</h3>
 <p>
-  <strong>Next Level Week</strong> is an event created by <a href="https://www.rocketseat.com.br/">Rockeseat</a> with the objective of teaching and sharing knowledge about frontend, backend and mobile applications using the highest level of programming to take you to the next level!
+  <strong>Next Level Week</strong> is an event created by <a href="https://www.rocketseat.com.br/">Rocketseat</a> with the objective of teaching and sharing knowledge about frontend, backend and mobile applications using the highest level of programming to take you to the next level!
 </p>
 <h3>💻 Project</h3>
 <p>
